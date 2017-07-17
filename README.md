@@ -1,7 +1,7 @@
 # mvcollabo
 This is a project repository for multivehicle collaboration
 
-* Git cheat sheet *
+* Git cheat sheet
    git add/rm [filename]
    git commit -m '[comments]'
    git branch [branchname]
