@@ -1,5 +1,5 @@
 # mvcollabo
-This is a project repository for multivehicle collaboration
+This is a project's open repository for multivehicle collaboration
 
 ## Git cheat sheet
 <pre><code> 
