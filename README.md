@@ -2,7 +2,8 @@
 This is a project repository for multivehicle collaboration
 
 1. Git cheat sheet
-   *git add/rm [filename]
+===================
+   *git add/rm [filename]
    *git commit -m '[comments]'
    *git branch [branchname]
    *git checkout [branchname]
